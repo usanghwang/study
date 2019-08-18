@@ -7,5 +7,7 @@ public class Test {
 		
 		System.out.println("æ»≥Á«œººø‰.");
 		System.out.println("hellow");
+		
+		System.out.println("one");
 	}
 }
